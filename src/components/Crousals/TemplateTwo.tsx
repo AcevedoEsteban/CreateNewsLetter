@@ -24,13 +24,10 @@ function TemplateTwo() {
         firstpage: true,
       },
       {
-        Title: "Christmas Bake Sale",
-        Description: `All proceeds will assist the 3rd annual
-Parish Lenten Pilgrimage.
-December 16th and 17th
-Following all Masses
+        Title: " Bake Sale",
+        Description: `All proceeds go to bakery.
 DONATIONS NEEDED.
-Drop off Saturday at 12:00PM—3:00PM`,
+Drop off Daturday at 12:00PM—3:00PM`,
       },
       {
         Title: "Confessions:",
@@ -40,8 +37,8 @@ Tuesday 5:30P.M. - 6:15P.M.
 Thursday 5:30P.M. - 6:15P.M.`,
       },
       {
-        Title: "Adoration of the Blessed Sacrament:",
-        Description: "Tuesday after 8:00A.M. Mass - 6:15P.M. (Benediction)",
+        Title: "de Finibus Bonorum et Malorum",
+        Description: "Tuesday after 8:00A.M. Mass - 6:15P.M. ",
         lastpage:true
       },
     ],

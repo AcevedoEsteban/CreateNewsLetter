@@ -24,10 +24,10 @@ const [templateData, setTemplateData] = useState ({
     crousal: [
         {
           className: "",
-          Title: "Saint Daniel the Prophet Roman Catholic Church ",
+          Title: "Where does it come from?",
           subtitle: `Our Lord Jesus Christ,November 26, 2023. 
-      • Baptism 
-      • First Reconciliation, First Communion and Confirmation
+      • Lorem Ipsum  
+      • Lorem Ipsum is simply dummy text of the printing.
       • Marriages`,
           description: null,
           banner: false,
@@ -35,15 +35,15 @@ const [templateData, setTemplateData] = useState ({
         },
         {
           className: "",
-          Title: "Readings for the week of November 26, 2023",
+          Title: "Readings for the week of Dovembery 42, 3000",
           subtitle: `This Weeks Reading `,
-          description: `Sunday: Our Lord Jesus Christ, King of the Universe`,
+          description: `It is a long established fact that a reader will be`,
           banner: true,
           bannerUrl: banner,
         },
         {
           className: "",
-          Title: "Parish Office Hours",
+          Title: " Office Hours",
           subtitle: ``,
           description: `8:45AM - 5:00PM, Monday - Thursday
 Closed Friday and Saturday
@@ -54,10 +54,8 @@ Closed Friday and Saturday
         {
           className: "",
           Title: "Observances for the week ",
-          subtitle: `November 26, 2023`,
-          description: `Sunday: Our Lord Jesus Christ, King of the Universe
-Thursday: St. Andrew, Apostle
-Next Sunday: 1st Sunday of Advent
+          subtitle: `Dovembery 42, 3000`,
+          description: `Sunday:The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. 
 `,
           banner: true,
           bannerUrl: banner,
@@ -65,9 +63,9 @@ Next Sunday: 1st Sunday of Advent
         {
           className: "",
     
-          Title: "Mass Times:",
+          Title: " Times:",
           subtitle: `Dates and Times`,
-          description: ` `,
+          description: ` Dovembery 42, 3000 - 8:45AM - 5:00PM, Monday - Thursday`,
           banner: false,
           bannerUrl: null,
         },
