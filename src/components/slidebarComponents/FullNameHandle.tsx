@@ -14,7 +14,7 @@ setCrousalHandle((v:any) => ({ ...v, ['fullname']:value}))
   return (
      <div className="grid w-full max-w-sm items-center gap-1.5">
      <Label htmlFor="fullname">Your Name</Label>
-     <Input type="text" id="fullname" name='fullname' placeholder="John Dow" defaultValue={crousalHandle.fullname} onChange={handleInput} />
+     <Input type="text" id="fullname" name='fullname' placeholder="e.g. Esteban Acevedo" defaultValue={crousalHandle.fullname} onChange={handleInput} />
    </div>
   )
 }

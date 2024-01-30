@@ -25,9 +25,7 @@ const [templateData, setTemplateData] = useState ({
         {
           className: "",
           Title: "Saint Daniel the Prophet Roman Catholic Church ",
-          subtitle: `Our Lord Jesus Christ, King of the Universe
-November 26, 2023. 
-                  
+          subtitle: `Our Lord Jesus Christ,November 26, 2023. 
       • Baptism 
       • First Reconciliation, First Communion and Confirmation
       • Marriages`,
@@ -37,30 +35,14 @@ November 26, 2023.
         },
         {
           className: "",
-    
           Title: "Readings for the week of November 26, 2023",
           subtitle: `This Weeks Reading `,
-          description: `Sunday: Ez 34:11-12, 15-17/Ps 23:1-2, 2-3, 5-6
-(1)/1 Cor 15:20-26, 28/Mt 25:31-46
-Monday: Dn 1:1-6, 8-20/Dn 3:52, 53, 54, 55, 56/
-Lk 21:1-4
-Tuesday: Dn 2:31-45/Dn 3:57, 58, 59, 60, 61/
-Lk 21:5-11
-Wednesday: Dn 5:1-6, 13-14, 16-17, 23-28/
-Dn 3:62, 63, 64, 65, 66, 67/Lk 21:12-19
-Thursday: Rom 10:9-18/Ps 19:8, 9, 10, 11/Mt 4:18-22
-Friday: Dn 7:2-14/Dn 3:75, 76, 77, 78, 79, 80, 81/
-Lk 21:29-33
-Saturday: Dn 7:15-27/Dn 3:82, 83, 84, 85, 86, 87/
-Lk 21:34-36
-Next Sunday: Is 63:16b-17, 19b; 64:2-7/Ps 80:2-3,
-15-16, 18-19 (4)/1 Cor 1:3-9/Mk 13:33-37`,
+          description: `Sunday: Our Lord Jesus Christ, King of the Universe`,
           banner: true,
           bannerUrl: banner,
         },
         {
           className: "",
-    
           Title: "Parish Office Hours",
           subtitle: ``,
           description: `8:45AM - 5:00PM, Monday - Thursday
@@ -71,7 +53,6 @@ Closed Friday and Saturday
         },
         {
           className: "",
-    
           Title: "Observances for the week ",
           subtitle: `November 26, 2023`,
           description: `Sunday: Our Lord Jesus Christ, King of the Universe
