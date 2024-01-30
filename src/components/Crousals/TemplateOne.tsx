@@ -25,7 +25,10 @@ const [templateData, setTemplateData] = useState ({
         {
           className: "",
           Title: "Where does it come from?",
-          subtitle: `Our Lord Jesus Christ,November 26, 2023. 
+        subtitle: `Our Lord Jesus Christ,November 26, 2023
+        . 
+         • Lorem Ipsum  
+      • Lorem Ipsum is simply dummy text of the printing.
       • Lorem Ipsum  
       • Lorem Ipsum is simply dummy text of the printing.
       • Marriages`,
