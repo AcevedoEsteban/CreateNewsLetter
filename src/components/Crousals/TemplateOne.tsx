@@ -24,8 +24,8 @@ const [templateData, setTemplateData] = useState ({
     crousal: [
         {
           className: "",
-          Title: "Where does it come from?",
-        subtitle: `Our Lord Jesus Christ,November 26, 2023
+          Title: "Where did you come from?",
+        subtitle: `Lorem Ipsum ,Dovember 99, 3024
         . 
          • Lorem Ipsum  
       • Lorem Ipsum is simply dummy text of the printing.
