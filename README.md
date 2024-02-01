@@ -2,7 +2,6 @@
 
 Crousal maker is a simple crousal editing platform with in-built crousals templates only you can edit heading , descriptions and Images and download it in both format PDF and JPEG .
 
-![Demo](https://create-news-letter.vercel.app/)
 
 ## TECH STACK
 
