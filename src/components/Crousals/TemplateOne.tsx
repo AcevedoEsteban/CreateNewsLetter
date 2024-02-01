@@ -25,8 +25,7 @@ const [templateData, setTemplateData] = useState ({
         {
           className: "",
           Title: "Where did you come from?",
-        subtitle: `Lorem Ipsum ,Dovember 99, 3024
-        . 
+        subtitle: `Lorem Ipsum ,Dovember 99, 3024. 
          • Lorem Ipsum  
       • Lorem Ipsum is simply dummy text of the printing.
       • Lorem Ipsum  
