@@ -1,4 +1,4 @@
-'use client'
+// 'use client'
 import { useMyContext } from '@/lib/Context'
 import Image from 'next/image'
 import React from 'react'
