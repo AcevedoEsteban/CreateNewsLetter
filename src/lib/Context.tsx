@@ -51,8 +51,8 @@ const MyContext = createContext<DataContextTypes | undefined>(undefined);
 
 export const DataProvider = ({ children }: { children: React.ReactNode }) => {
   const [crousalHandle, setCrousalHandle] = useState<userHandletypes>({
-    fullname: "Esteban Acevedo",
-    username: "@Esteban_Acevedo",
+    fullname: "Steven Garibaldi",
+    username: "@StevenGaribaldi",
   });
   const [count, setCount] = useState<number>(0);
   const [crouLength, setCrouLength] = useState<number>(1);
